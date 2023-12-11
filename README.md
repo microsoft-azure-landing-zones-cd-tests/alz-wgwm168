@@ -1,2 +1,3 @@
-# alz-wgwm168
-alz-wgwm168
+# Test Module
+
+This module is used for testing the bootstrapping without needing elevated permissions or a clean tenant.
