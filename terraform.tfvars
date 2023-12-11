@@ -1,0 +1,6 @@
+child_management_group_display_name  = "E2E Test"
+parent_management_group_display_name = "Tenant Root Group"
+resource_group_location              = "uksouth"
+subscription_id_connectivity         = "2a8527ca-5340-49aa-8931-ea03669451a0"
+subscription_id_identity             = "2a8527ca-5340-49aa-8931-ea03669451a0"
+subscription_id_management           = "2a8527ca-5340-49aa-8931-ea03669451a0"
